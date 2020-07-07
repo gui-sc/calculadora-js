@@ -1,0 +1,39 @@
+body{
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+input{
+    width: 70px;
+}
+input.botaoMaior{
+    width: 140px;
+}
+input#txtNum{
+    background-color: gray;
+    color: white;
+}
+div#res{
+    background-color: gray;
+    height: 30px;
+    color: white;
+    text-align: right;
+}
+div{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    width: 300px;
+    margin: auto;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
